@@ -12,12 +12,17 @@
     
     
     <item>
-      <title>Test</title>
+      <title>MarkDown基本语法</title>
       <link>https://Tiger-LiuHu.github.io/post/test/</link>
       <pubDate>Sun, 30 Jun 2019 09:45:16 +0800</pubDate>
       
       <guid>https://Tiger-LiuHu.github.io/post/test/</guid>
-      <description>Hello Hugo！测试内容</description>
+      <description> 一.标题的使用  一级标题 使用 # 二级标题使用## 三级标题使用### 四级标题使用#### 五级标题使用#####  二.字体  ##### 加粗  要加粗的文字左右分别用两个*号包起来
+ ##### 斜体  要倾斜的文字左右两边用一个*号包起来
+ ##### 斜体加粗  要倾斜和加粗的文字左右用三个*号包起来
+ ##### 删除线  要加删除线的文字用 两个~~号包起来
+示例：
+ </description>
     </item>
     
   </channel>
