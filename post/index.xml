@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Tiger-LiuHu</title>
+    <title>Posts on </title>
     <link>https://Tiger-LiuHu.github.io/post/</link>
-    <description>Recent content in Posts on Tiger-LiuHu</description>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Sun, 30 Jun 2019 09:45:16 +0800</lastBuildDate>
     
 	<atom:link href="https://Tiger-LiuHu.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -13,16 +12,31 @@
     
     <item>
       <title>MarkDown基本语法</title>
-      <link>https://Tiger-LiuHu.github.io/post/test/</link>
+      <link>https://Tiger-LiuHu.github.io/post/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</link>
       <pubDate>Sun, 30 Jun 2019 09:45:16 +0800</pubDate>
       
-      <guid>https://Tiger-LiuHu.github.io/post/test/</guid>
-      <description> 一.标题的使用  一级标题 使用 # 二级标题使用## 三级标题使用### 四级标题使用#### 五级标题使用#####  二.字体  ##### 加粗  要加粗的文字左右分别用两个*号包起来
- ##### 斜体  要倾斜的文字左右两边用一个*号包起来
- ##### 斜体加粗  要倾斜和加粗的文字左右用三个*号包起来
- ##### 删除线  要加删除线的文字用 两个~~号包起来
+      <guid>https://Tiger-LiuHu.github.io/post/markdown%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/</guid>
+      <description>markDown基本使用方法 一.标题的使用  一级标题 使用 #
+ 二级标题使用##
+ 三级标题使用###
+ 四级标题使用####
+ 五级标题使用#####
+  二.字体  加粗 要加粗的文字左右分别用两个*号包起来
+ 斜体  要倾斜的文字左右分别用一个*号包起来
+ #### 斜体加粗  要倾斜和加粗的文字左右分别用三个*号包起来
+ ##### 删除线  要加删除线的文字左右分别用两个~~号包起来
 示例：
- </description>
+**这是加粗的文字** *这是倾斜的文字*` ***这是斜体加粗的文字*** ~~这是加删除线的文字~~  效果如下：
+这是加粗的文字 这是倾斜的文字 这是斜体加粗的文字 这是加删除线的文字
+三.引用 ​ 在引用的文字前加&amp;gt;即可
+示例：
+&amp;gt;这是引用的内容 &amp;gt;&amp;gt;这是引用的内容  效果： &amp;gt;这是引用的内容 &amp;gt; &amp;gt;&amp;gt;这是引用的内容
+四.分割线 三个或者三个以上的-或者*都行
+示例：
+--- ---- *** *****  效果：
+### 五.图片
+语法：
+![图片alt](图片地址 &amp;quot;图片title&amp;quot;) 图片alt就是显示在图片下面的文字，相当于对图片内容的解释。 图片title是图片的标题，当鼠标移到图片上时显示的内容。title可加可不加  示例：</description>
     </item>
     
   </channel>
